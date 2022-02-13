@@ -1,6 +1,8 @@
 # Lunar Script Launcher
 A simple but customisable command line only batch script to launch [Lunar Client](https://www.lunarclient.com/) on Windows.
 
+**Not being actively developed at all, you should use [🌙 Moony](https://github.com/couleur-tweak-tips/Moony) instead. I am only keeping this repo in case I want to come back to this some day.**
+
 ## FAQ
 - **Where is the configuration file?** There is none, you edit the variables in the batch script.
 - **There are so many other alternatives, why does this exist?** Other third-party Lunar Client launchers can be a bit bloated. For my needs, I do not need a GUI and I do not care that much about an updater (it would be nice though). Due to the simplistic design of this script, it is fast and easy to understand. However, it does not come without its limitations like no updating/installation support or no GUI (a [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) may be coming in the future).

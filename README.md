@@ -11,7 +11,6 @@ A simple but customisable command line only batch script to launch [Lunar Client
 - Aetopia's [LCLPy](https://github.com/Aetopia/LCLPy) - Deprecated - AHK (for the GUI) + Python + Batch. GUI = optional. Windows + Linux supported (no GUI on Linux).
 - Aetopia's [LCL (Lunar Client Lite](https://github.com/Aetopia/Lunar-Client-Lite-Launcher) - Deprecated - AHK + Batch with GUI only (for Windows only).
 - Aetopia's [PortaLuna](https://github.com/Aetopia/Portaluna) - Deprecated - AHK + Python + PowerShell + Batch - Installation/updating supported + Windows only
-- lem6ns' [LFL](https://github.com/lem6ns/light-fucking-lunar) - JS + HTML + CSS + NodeJS - WIP - Supports Windows + Linux + MacOS X (updating/installing)
 - Couleur's [🌙 Moony](https://github.com/couleur-tweak-tips/Moony) - Powershell - Windows only (WIP?)
 - If there are anymore alternatives, please make an issue or pull request!
 
